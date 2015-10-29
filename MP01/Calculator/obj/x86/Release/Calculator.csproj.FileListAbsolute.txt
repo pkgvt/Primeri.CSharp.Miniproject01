@@ -1,0 +1,4 @@
+D:\aula\primeri.csharp.miniproject01\MP01\Calculator\bin\Release\Calculator.exe
+D:\aula\primeri.csharp.miniproject01\MP01\Calculator\bin\Release\Calculator.pdb
+D:\aula\primeri.csharp.miniproject01\MP01\Calculator\obj\x86\Release\Calculator.exe
+D:\aula\primeri.csharp.miniproject01\MP01\Calculator\obj\x86\Release\Calculator.pdb
