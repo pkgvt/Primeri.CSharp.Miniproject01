@@ -2,9 +2,9 @@
 
 namespace UserInput
 {
-	public class UImput
+	public class UInput
 	{
-		public UImput ()
+		public UInput ()
 		{
 		}
 
