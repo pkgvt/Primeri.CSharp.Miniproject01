@@ -12,10 +12,10 @@ namespace Calculator
 
 
 		{
-			Console.WriteLine ("Hello World!");
-
+			
 			MainClass _program = new MainClass ();
-			_program.uInput.justTesting ();
+
+			_program.uInput.getUserCommands ();
 		}
 	}
 }
