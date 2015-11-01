@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserInput", "UserInput\User
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "About", "About\About.csproj", "{0312F035-F669-4F27-830D-A49A12E9E41E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colors", "Colors\Colors.csproj", "{93AA2A20-A7AD-4A42-B3F6-F08B07479934}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -17,6 +19,10 @@ Global
 		{0312F035-F669-4F27-830D-A49A12E9E41E}.Debug|x86.Build.0 = Debug|Any CPU
 		{0312F035-F669-4F27-830D-A49A12E9E41E}.Release|x86.ActiveCfg = Release|Any CPU
 		{0312F035-F669-4F27-830D-A49A12E9E41E}.Release|x86.Build.0 = Release|Any CPU
+		{93AA2A20-A7AD-4A42-B3F6-F08B07479934}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{93AA2A20-A7AD-4A42-B3F6-F08B07479934}.Debug|x86.Build.0 = Debug|Any CPU
+		{93AA2A20-A7AD-4A42-B3F6-F08B07479934}.Release|x86.ActiveCfg = Release|Any CPU
+		{93AA2A20-A7AD-4A42-B3F6-F08B07479934}.Release|x86.Build.0 = Release|Any CPU
 		{DA62E389-F583-462E-A2DF-369CF99F5B27}.Debug|x86.ActiveCfg = Debug|Any CPU
 		{DA62E389-F583-462E-A2DF-369CF99F5B27}.Debug|x86.Build.0 = Debug|Any CPU
 		{DA62E389-F583-462E-A2DF-369CF99F5B27}.Release|x86.ActiveCfg = Release|Any CPU
