@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{DA62E389-F583-462E-A2DF-369CF99F5B27}</ProjectGuid>
+    <ProjectGuid>{EE6C5E9E-A3EF-4A60-8556-96A8F852FCC8}</ProjectGuid>
     <OutputType>Library</OutputType>
     <RootNamespace>UserInput</RootNamespace>
     <AssemblyName>UserInput</AssemblyName>
@@ -15,7 +15,6 @@
     <Optimize>false</Optimize>
     <OutputPath>bin\Debug</OutputPath>
     <DefineConstants>DEBUG;</DefineConstants>
-    <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <ConsolePause>false</ConsolePause>
   </PropertyGroup>
@@ -23,7 +22,6 @@
     <DebugType>full</DebugType>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release</OutputPath>
-    <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <ConsolePause>false</ConsolePause>
   </PropertyGroup>
@@ -36,13 +34,17 @@
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
-    <ProjectReference Include="..\About\About.csproj">
-      <Project>{0312F035-F669-4F27-830D-A49A12E9E41E}</Project>
-      <Name>About</Name>
+    <ProjectReference Include="..\Abaut\Abaut.csproj">
+      <Project>{6F7975C4-FFD9-4173-BEFB-EB7199EEEE2E}</Project>
+      <Name>Abaut</Name>
     </ProjectReference>
     <ProjectReference Include="..\Colors\Colors.csproj">
-      <Project>{93AA2A20-A7AD-4A42-B3F6-F08B07479934}</Project>
+      <Project>{5D51AC06-56A3-406F-ABD1-69B0AEB5D9A1}</Project>
       <Name>Colors</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Calculations\Calculations.csproj">
+      <Project>{3FDD5960-3287-4A5D-AEC6-BF6BCBB2F77D}</Project>
+      <Name>Calculations</Name>
     </ProjectReference>
   </ItemGroup>
 </Project>

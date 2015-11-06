@@ -3,10 +3,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0312F035-F669-4F27-830D-A49A12E9E41E}</ProjectGuid>
+    <ProjectGuid>{6F7975C4-FFD9-4173-BEFB-EB7199EEEE2E}</ProjectGuid>
     <OutputType>Library</OutputType>
-    <RootNamespace>About</RootNamespace>
-    <AssemblyName>About</AssemblyName>
+    <RootNamespace>Abaut</RootNamespace>
+    <AssemblyName>Abaut</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">

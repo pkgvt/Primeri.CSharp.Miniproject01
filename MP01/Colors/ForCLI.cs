@@ -7,26 +7,23 @@ namespace Colors
 		public ForCLI ()
 		{
 		}
-				public void Default ()	
+		public void Default ()
 		{
-			Console.ForegroundColor = ConsoleColor.Gray;
+			Console.ForegroundColor = ConsoleColor.Gray; 
 		}
 
-		public void Promt ()
+		public void Prompt()
 		{
-			Console.ForegroundColor = ConsoleColor.DarkGreen;
-
+			Console.ForegroundColor = ConsoleColor.DarkGreen;	
 		}
 		public void Command ()
 		{
-			Console.ForegroundColor = ConsoleColor.DarkYellow;
-
-		}public void Result ()
-		{
-			Console.ForegroundColor = ConsoleColor.White;
-
+			Console.ForegroundColor = ConsoleColor.DarkYellow;	
 		}
-
+		public void Result()
+		{
+			Console.ForegroundColor = ConsoleColor.White;	
+		}
 	}
 }
 

@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{93AA2A20-A7AD-4A42-B3F6-F08B07479934}</ProjectGuid>
+    <ProjectGuid>{5D51AC06-56A3-406F-ABD1-69B0AEB5D9A1}</ProjectGuid>
     <OutputType>Library</OutputType>
     <RootNamespace>Colors</RootNamespace>
     <AssemblyName>Colors</AssemblyName>

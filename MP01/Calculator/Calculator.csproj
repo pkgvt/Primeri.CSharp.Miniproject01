@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProjectGuid>{F68C12E1-60E4-40A5-9790-44E72D4B4CF8}</ProjectGuid>
+    <ProjectGuid>{763470BF-0D2F-429B-BD3F-157B9EBC56D5}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Calculator</RootNamespace>
     <AssemblyName>Calculator</AssemblyName>
@@ -39,12 +39,12 @@
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
     <ProjectReference Include="..\UserInput\UserInput.csproj">
-      <Project>{DA62E389-F583-462E-A2DF-369CF99F5B27}</Project>
+      <Project>{EE6C5E9E-A3EF-4A60-8556-96A8F852FCC8}</Project>
       <Name>UserInput</Name>
     </ProjectReference>
-    <ProjectReference Include="..\About\About.csproj">
-      <Project>{0312F035-F669-4F27-830D-A49A12E9E41E}</Project>
-      <Name>About</Name>
+    <ProjectReference Include="..\Abaut\Abaut.csproj">
+      <Project>{6F7975C4-FFD9-4173-BEFB-EB7199EEEE2E}</Project>
+      <Name>Abaut</Name>
     </ProjectReference>
   </ItemGroup>
 </Project>

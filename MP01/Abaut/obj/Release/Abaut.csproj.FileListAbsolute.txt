@@ -1,0 +1,4 @@
+D:\aula\primeri.csharp.miniproject01\MP01\Abaut\bin\Release\Abaut.dll
+D:\aula\primeri.csharp.miniproject01\MP01\Abaut\bin\Release\Abaut.pdb
+D:\aula\primeri.csharp.miniproject01\MP01\Abaut\obj\Release\Abaut.dll
+D:\aula\primeri.csharp.miniproject01\MP01\Abaut\obj\Release\Abaut.pdb
