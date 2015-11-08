@@ -1,13 +1,12 @@
 ﻿<Properties StartupItem="Calculator\Calculator.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Calculations\Formula01.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Calculations\Formula02.cs">
     <Files>
       <File FileName="Calculator\Program.cs" Line="28" Column="1" />
-      <File FileName="UserInput\UserInput.cs" Line="36" Column="57" />
-      <File FileName="Colors\ForCLI.cs" Line="30" Column="1" />
-      <File FileName="Abaut\me.cs" Line="1" Column="1" />
-      <File FileName="Calculations\Calculations.cs" Line="12" Column="4" />
-      <File FileName="Calculations\Formula01.cs" Line="77" Column="16" />
+      <File FileName="UserInput\UserInput.cs" Line="38" Column="58" />
+      <File FileName="Calculations\Calculations.cs" Line="18" Column="1" />
+      <File FileName="Calculations\Formula01.cs" Line="67" Column="41" />
+      <File FileName="Calculations\Formula02.cs" Line="29" Column="34" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
