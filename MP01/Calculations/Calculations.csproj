@@ -35,6 +35,7 @@
     <Compile Include="Calculations.cs" />
     <Compile Include="Formula01.cs" />
     <Compile Include="Formula02.cs" />
+    <Compile Include="Formula03.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
