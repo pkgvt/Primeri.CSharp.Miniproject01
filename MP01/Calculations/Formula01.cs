@@ -4,18 +4,23 @@ namespace Calculations
 {
 
 	/// <summary>
-	///Клас за формула за обикновенна строителна яма.(Формула 1)</summary>
+	///Клас за формула за обикновенна строителна яма.(Формула 01)</summary>
 	public class Formula01
 	{
 		//Библиотеки
 
+
 		private Colors.ForCLI _c = new Colors.ForCLI ();
 
-		public Formula01 () //Формула за обикновенна строителна яма
+		/// <summary>
+		/// Конструктор на Формула 01</summary>
+		public Formula01 () 
 		{
-		}
 
-		// Парсване
+		}
+		/// <summary>
+		/// Метод за пресмятане на Формула 01</summary>
+
 		public void calc (string _userInput)
 
 		{
@@ -55,7 +60,8 @@ namespace Calculations
 		}
 			
 
-		// Исчисление и изписване
+		/// <summary>
+		/// Вътрешен метод за пресмятане на Формула 01 след парсване на командата от потребителя</summary>
 
 		private bool runCalculations (string [] _param, out double _result)
 		{
@@ -81,7 +87,9 @@ namespace Calculations
 			return false;
 		}
 
-		// Помощ за командата
+		/// <summary>
+		/// Вътрешен метод показващ синтаксиса на командния ред</summary>
+
 		private void help ()
 
 		{
